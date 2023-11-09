@@ -1,6 +1,9 @@
 # Rendu pour l'examen 2
 ## Sommaire
 
+- Liste du groupe
+- Rendu
+
 ## Liste du groupe
 
 Clément WALSH de SERRANT - Clément DUFOUR-LAMARTINIE - Mohamed Ali DHOUIB
