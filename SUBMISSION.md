@@ -30,7 +30,7 @@ Création d'image : <br>
 ![image](https://github.com/Clement-Wds/YNOV-Docker-Exam-2/assets/56402465/5808a723-55fa-416c-884e-2b33bc438d23)
 <br>
 
-Liste des images crées : : <br>
+Liste des images crées :<br>
 ![image](https://github.com/Clement-Wds/YNOV-Docker-Exam-2/assets/56402465/027c41a0-a22d-4d4c-b227-24e336bf3999)
 <br>
 
